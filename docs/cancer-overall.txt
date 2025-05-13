@@ -1,0 +1,68 @@
+O QUE É CANCER?
+
+Crescimento anormal de células na mama que pode se tornar invasivo.
+==================================
+TIPOS DE CÂNCER: 
+
+Principais / Comuns:
+    - Carcinoma ductal in situ (CDIS)
+    - Carcinoma lobular in situ (LCIS)
+    - Carcinoma ductal invasivo (IDC)
+    - Carcinoma lobular invasivo (ILC)
+
+Outros tipos / Incomuns:
+    - Câncer de mama inflamatório
+    - Doença de Paget
+    - Triplo negativo
+==================================
+CÂNCER BENIGNOS VS MALIGNOS:
+
+Benignos = Tem células que crescem lentamente e semelhante às do tecido normal. 
+Na maioria dos casos pode ser totalmente removido (e o paciente curado) por meio de cirurgia.
+
+Malignos = As células multiplicam-se rapidamente e têm a capacidade de “invadir” estruturas próximas ao local de origem. 
+A cura neste tipo de tumor depende do diagnóstico precoce e do tratamento adotado.
+
+Benignos:
+    - Cistos, fibroadenomas (benigno)
+
+Malignos:
+    - Massas irregulares, microcalcificações agrupadas (maligno)
+==================================
+PADRÕES VISUAIS IMPORTANTES EM MAMOGRAFIAS:
+    - Massas: forma, margem e densidade.
+    - Calcificações: forma e padrão de distribuição.
+    - Assimetria e distorção arquitetural da mama.
+==================================
+TIPOS DE EXAMES:
+    Possui 2 tipos: 
+    - Mamografia digital (mais moderna) -> iremos analisar esta
+    - Mamografia analógica (filme)
+
+PROJEÇÕES COMUNS:
+    - CC (Craniocaudal)
+    - MLO (Mediolateral oblíqua)
+
+RESOLUÇÃO E CARACTERÍSTICAS TÉCNICAS DA IMAGEM:
+    - Alto contraste
+    - Presença de ruídos como tecido denso
+
+PADRÕES DE DENSIDADE MAMÁRIA (BI-RADS):
+    - A: quase totalmente gorduroso
+    - D: extremamente denso (mais difícil de detectar câncer)
+
+BI-RADS = é um sistema de classificação internacional para relatórios de exames de imagem da mama
+
+CATEGORIAS BI-RADS:
+    - BI-RADS 1: Sem achados.
+    - BI-RADS 2: Achado benigno.
+    - BI-RADS 3: Provavelmente benigno, com necessidade de acompanhamento.
+    - BI-RADS 4: Suspeito, com risco de câncer variando de 2 a 95% (subdividido em 4A, 4B e 4C).
+    - BI-RADS 5: Altamente sugestivo de malignidade, com risco de câncer superior a 95%.
+    - BI-RADS 6: Confirmação de câncer. 
+==================================
+BASES DE DADOS PÚBLICAS:
+    - CBIS-DDSM: uma das bases públicas mais famosas.
+    - INbreast
+    - MIAS
+    - BIMCV (mais recente)

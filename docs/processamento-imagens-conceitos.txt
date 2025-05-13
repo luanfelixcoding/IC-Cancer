@@ -1,0 +1,32 @@
+Conhecimentos em Processamento de Imagens
+
+- Segmentação:
+    - Thresholding
+    - Watershed
+    - Region growing
+    - Redes neurais para segmentação (U-Net, Mask R-CNN)
+
+    - Pré-processamento de imagens:
+        - Remoção de ruído
+        - Normalização
+        - Equalização de histograma
+        - Redução de contraste para áreas densas
+
+    - Melhorias específicas para mamografias:
+        - Filtragem adaptativa para destacar microcalcificações
+        - Realce de bordas para detectar massas irregulares
+
+
+Classificação usando IA:
+
+- Modelos mais usados para mamografias:
+    - CNNs (Redes Neurais Convolucionais)
+    - ResNet, DenseNet para classificação
+    - EfficientNet (mais moderno)
+    - Modelos multimodais que combinam imagens + dados clínicos
+
+- Métricas importantes na área médica:
+    - Sensibilidade (recall): mais importante que acurácia em câncer.
+    - Especificidade
+    - AUC-ROC
+    - F1-score
